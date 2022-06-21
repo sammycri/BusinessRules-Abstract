@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "A+MLNknb0Wh0gpFELyAgmwI06CJL+YeWYTtRybWj439D1eqICOq+gEm4XnjZ6S7V0g/PQSt57YyLdP5TGKNfSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sammy\\Desktop\\projetos\\Mabs01\\Mabs01\\Mabs01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sammy\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Sammy\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Sammy\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Sammy\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Sammy\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Sammy\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Sammy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

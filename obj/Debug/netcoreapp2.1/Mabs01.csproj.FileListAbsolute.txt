@@ -1,0 +1,13 @@
+C:\Users\Sammy\Desktop\projetos\Mabs01\Mabs01\obj\Debug\netcoreapp2.1\Mabs01.csproj.AssemblyReference.cache
+C:\Users\Sammy\Desktop\projetos\Mabs01\Mabs01\obj\Debug\netcoreapp2.1\Mabs01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\Desktop\projetos\Mabs01\Mabs01\obj\Debug\netcoreapp2.1\Mabs01.AssemblyInfoInputs.cache
+C:\Users\Sammy\Desktop\projetos\Mabs01\Mabs01\obj\Debug\netcoreapp2.1\Mabs01.AssemblyInfo.cs
+C:\Users\Sammy\Desktop\projetos\Mabs01\Mabs01\obj\Debug\netcoreapp2.1\Mabs01.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\Desktop\projetos\Mabs01\Mabs01\bin\Debug\netcoreapp2.1\Mabs01.deps.json
+C:\Users\Sammy\Desktop\projetos\Mabs01\Mabs01\bin\Debug\netcoreapp2.1\Mabs01.runtimeconfig.json
+C:\Users\Sammy\Desktop\projetos\Mabs01\Mabs01\bin\Debug\netcoreapp2.1\Mabs01.runtimeconfig.dev.json
+C:\Users\Sammy\Desktop\projetos\Mabs01\Mabs01\bin\Debug\netcoreapp2.1\Mabs01.dll
+C:\Users\Sammy\Desktop\projetos\Mabs01\Mabs01\bin\Debug\netcoreapp2.1\Mabs01.pdb
+C:\Users\Sammy\Desktop\projetos\Mabs01\Mabs01\obj\Debug\netcoreapp2.1\Mabs01.dll
+C:\Users\Sammy\Desktop\projetos\Mabs01\Mabs01\obj\Debug\netcoreapp2.1\Mabs01.pdb
+C:\Users\Sammy\Desktop\projetos\Mabs01\Mabs01\obj\Debug\netcoreapp2.1\Mabs01.genruntimeconfig.cache
